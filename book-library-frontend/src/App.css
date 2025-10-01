@@ -1,0 +1,16 @@
+body {
+  background-color: whitesmoke;
+}
+
+.card {
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+.header-title {
+  font-family: 'Segoe UI', sans-serif;
+  font-weight: bold;
+}
