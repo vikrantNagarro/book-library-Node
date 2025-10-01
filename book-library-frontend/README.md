@@ -31,8 +31,7 @@ A personal library manager built using **React**, **Redux Toolkit**, and **Boots
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/vikrantNagarro/react-book-library.git
-   cd book-library-application
+   cd book-library-frontend
    ```
 
 2. **Install dependencies**
